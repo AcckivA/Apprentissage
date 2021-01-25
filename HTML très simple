@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Test d'apprentissage</title>
+</head>
+
+<body>
+    <h1>Je vais lister mes activitées favorites  !</h1>
+
+    <p>Bonjour , voici un petit exercice simple.<br />
+       Je vais lister mes 3 activitées favorites.</p>
+
+    <h2>Let's go!</h2>
+    
+   
+<ol>
+    <li><strong>Trier les jeux de Mikado.</strong></li>
+    <li>Me faire des dreadlocks avec ma barbe.</li>
+    <li>Peindre des cailloux.</li>
+</ol></p>
+</body>
+</html>
